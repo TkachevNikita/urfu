@@ -216,6 +216,7 @@ ul {
     flex-direction: column;
     align-items: flex-start;
     width: 50%;
+    margin-left: 120px;
 }
 
 .hero svg {
