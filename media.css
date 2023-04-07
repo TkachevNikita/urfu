@@ -1,0 +1,33 @@
+@media(max-width: 1336px) {
+    .hero__title {
+        font-size: 68px;
+    }
+
+    .hero__text {
+        font-size: 32px;
+    }
+
+    .hero__descr-more,
+    .hero__descr-left-text {
+        font-size: 20px;
+    }
+
+    .nav__item,
+    .header__button {
+        font-size: 14px;
+    }
+
+    .header__button {
+        padding: 18px 60px;
+        border-radius: 18px;
+    }
+
+    .section-title,
+    .about__item-title {
+        font-size: 36px;
+    }
+
+    .about__text {
+        font-size: 14px;
+    }
+}
